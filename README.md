@@ -28,4 +28,4 @@ python3 -m venv fraud_detection_env3
 source fraud_detection_env/bin/acticate
 pip install -r requirements3.txt
 ```
-All scripts of the repo are executed in the main directory
+*All scripts of the repo must be executed while being in the main directory
